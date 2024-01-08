@@ -24,7 +24,7 @@ I'm on a mission to Ethical and Inclusive Development. My journey revolves aroun
 - 🌟 Crafting E-commerce Website that is multifaceted, spanning economic, social, and technological aspects, aiming to revolutionize the way businesses operate and customers shop.
 - 💻 Constantly diving into Cybersecurity Innovations to Testing and Validation.
 - 📚 Sharing insights on Programming Languages through Talks.
-
+<!--
 ## 🛠️ Tech Arsenal
 
 - 👩‍💻 Fluent in: [List of Unique Programming Languages/Skills]
@@ -51,4 +51,4 @@ Dive into my world:
 - 📚 Current read: [Your Current Fascinating Read]
 
 Ready to embark on something exciting together? Let's connect and innovate!
-
+-->
