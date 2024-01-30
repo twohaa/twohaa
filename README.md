@@ -73,7 +73,22 @@ I'm MD Mahfuzul Haque Bhuiyan Twoha, a passionate software developer dedicated t
 - JavaScript Music Player
 - React Shopping Cart App
 - React Investment Calculator
-- ... (Add your projects)
+- React Count-Down App
+- React Project Management App
+- React Country App
+- Product Filtering
+- Django E-Commerce App
+- Text Utils App
+- Django Blog App
+- Task Manager
+- React Todo App
+- Product CRUD Operation
+- Authenticate Task Manager
+- Responsive Resume
+- Rapid Api Weather App
+- World Clock
+- JavaScript Search Bar
+- JavaScript Guessing Game
 
 ### Academic Project
 - **Title:** Classification of Pap Smear Images
@@ -91,8 +106,3 @@ I'm MD Mahfuzul Haque Bhuiyan Twoha, a passionate software developer dedicated t
 ### Extracurricular Activities
 - Forward at Department Football Team.
 - Intra-college Badminton Champion.
-
-## 🎨 Let's Add Some Pictures!
-![Coding](https://i.imgur.com/abcdefg.jpg)
-![Web Development](https://i.imgur.com/hijklmn.jpg)
-![Cybersecurity](https://i.imgur.com/opqrstu.jpg)
