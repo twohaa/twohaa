@@ -1,4 +1,4 @@
-![ToxiCoder](./-5970742198234360749_120.jpg)
+<img src="./-5970742198234360749_120.jpg" alt="ToxiCoder" style="width: 100%;">
 
 # 👩‍💻 Hey, It's ToxiCoder!
 
