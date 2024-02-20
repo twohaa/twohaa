@@ -1,59 +1,50 @@
+![Software Developer](https://example.com/software_developer_image.jpg)
+
 # 👩‍💻 Hey, It's ToxiCoder!
 
 ## 🚀 About Me
 I'm MD Mahfuzul Haque Bhuiyan Twoha, a passionate software developer dedicated to Ethical and Inclusive Development. My expertise spans both front-end and back-end development, with a focus on crafting innovative solutions.
 
 ## 💡 What I Do
-- 🌟 Crafting transformative E-commerce Websites that redefine online shopping experiences.
 - 💻 Exploring cutting-edge Cybersecurity Innovations to ensure robust testing and validation.
 - 📚 Sharing insights on Programming Languages through engaging Talks and Workshops.
+- 🚀 Enthusiastic full-stack software developer and programmer in Javascript and Python.
+- 💻 Apply skills to full-stack development following modern software development standards and innovations.
+- 🌟 Proficient in object-oriented programming, database management systems, and data structures and algorithms in computer science and engineering.
+- 💼 Utilize React for front-end programming and Django, Node, and Express for back-end development.
+- 💻 Extensive experience with React, HTML, CSS, JavaScript, jQuery, and Redux.
+- ♿️ Expertise in Web accessibility and authority on REST APIs, Web authentication, Git, and GitHub.
+- 📊 Offer SQL, PostgreSQL and MongoDB as database management systems.
+- 💻 Capable of creating and developing any type of website according to the latest technological requirements.
+- 🌟 Crafting transformative E-commerce Websites that redefine online shopping experiences.
+- 💪 Always proud of my technical abilities.
 
 ## 📞 Contact Me
 - **Email:** mahfuzztwohaa@gmail.com
-- **Phone:** +880 1724-420544, +91 9564085663
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mahfuzztwohaa/)
 - **Portfolio:** [Explore my work](https://mahfuzztwohaa.netlify.app)
+- **Phone:** +880 1724-420544, +91 9564085663
 
 ## 🎓 Education
 - **B. Tech in Computer Science & Engineering**
   - Haldia Institute of Technology, West Bengal, India
   - Year of Passing: 2023
-  - CGPA: 8.63 out of 10
 
 ## 💻 Skills
-### Programming Languages
-- C
-- Java
-- Python
-- JavaScript (JSON)
-- TypeScript
-
-### Web Development
-- HTML
-- CSS
-- SASS
-- jQuery
-- React.js
-- Redux
-- Node.js
-- Express.js
-- E.js
-- Bootstrap
-- Django
-- REST APIs
-
-### Databases
-- MongoDB
-- MySQL
-- PostgreSQL
-
-### Other
-- Git & GitHub
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Web Accessibility
-- Web Authentication
-- Web Authorization
+| Programming Languages | Web Development | Databases | Other |
+|-----------------------|-----------------|-----------|-------|
+| C                     | HTML            | MongoDB   | Git & GitHub            |
+| Java                  | CSS             | MySQL     | Object-Oriented Programming |
+| Python                | SASS            | PostgreSQL| Data Structures & Algorithms |
+| JavaScript (JSON)     | jQuery          |           | Web Accessibility |
+| TypeScript            | React.js        |           | Web Authentication |
+|                       | Redux           |           | Web Authorization |
+|                       | Node.js         |           |                    |
+|                       | Express.js      |           |                    |
+|                       | E.js            |           |                    |
+|                       | Bootstrap       |           |                    |
+|                       | Django          |           |                    |
+|                       | REST APIs       |           |                    |
 
 ## 🛠️ Experience
 - **Software Developer** at EKATTOR iT. (November 2023 - Present)
@@ -66,36 +57,31 @@ I'm MD Mahfuzul Haque Bhuiyan Twoha, a passionate software developer dedicated t
 - Completed a 1-month training program on Web Development from Skill Vertex.
 
 ## 🚀 Projects & Research Experience
-### Personal Projects
-- React E-Commerce App
-- React Tic-Tac-Toe Game
-- React Place Picker App
-- JavaScript Music Player
-- React Shopping Cart App
-- React Investment Calculator
-- React Count-Down App
-- React Project Management App
-- React Country App
-- Product Filtering
-- Django E-Commerce App
-- Text Utils App
-- Django Blog App
-- Task Manager
-- React Todo App
-- Product CRUD Operation
-- Authenticate Task Manager
-- Responsive Resume
-- Rapid Api Weather App
-- World Clock
-- JavaScript Search Bar
-- JavaScript Guessing Game
-
-### Academic Project
-- **Title:** Classification of Pap Smear Images
-  - **Description:** An intelligent system for automatic classification using CNN/RNN.
-  - **Platform:** Python.
-  - **Date:** Aug 2022 – May 2023.
-  - **Supervisor:** Sumanta Kulia, Assistant Professor, Haldia Institute of Technology.
+### Personal Projects | Academic Project
+| Personal Projects       | Academic Project          |
+|-------------------------|---------------------------|
+| React E-Commerce App    | Classification of Pap Smear Images |
+| React Tic-Tac-Toe Game  | Description: An intelligent system for automatic classification using CNN/RNN. |
+| React Place Picker App  | Platform: Python.         |
+| JavaScript Music Player | Date: Aug 2022 – May 2023. |
+| React Shopping Cart App | Supervisor: Sumanta Kulia, Assistant Professor, Haldia Institute of Technology. |
+| React Investment Calculator |                           |
+| React Count-Down App    |                           |
+| React Project Management App |                         |
+| React Country App       |                           |
+| Product Filtering       |                           |
+| Django E-Commerce App   |                           |
+| Text Utils App          |                           |
+| Django Blog App         |                           |
+| Task Manager            |                           |
+| React Todo App          |                           |
+| Product CRUD Operation  |                           |
+| Authenticate Task Manager |                         |
+| Responsive Resume       |                           |
+| Rapid Api Weather App   |                           |
+| World Clock             |                           |
+| JavaScript Search Bar   |                           |
+| JavaScript Guessing Game|                           |
 
 ## 🌍 Language & Extracurricular Activities
 ### Language
