@@ -1,5 +1,3 @@
-![Software Developer](https://example.com/software_developer_image.jpg)
-
 # 👩‍💻 Hey, It's ToxiCoder!
 
 ## 🚀 About Me
@@ -57,31 +55,24 @@ I'm MD Mahfuzul Haque Bhuiyan Twoha, a passionate software developer dedicated t
 - Completed a 1-month training program on Web Development from Skill Vertex.
 
 ## 🚀 Projects & Research Experience
-### Personal Projects | Academic Project
-| Personal Projects       | Academic Project          |
-|-------------------------|---------------------------|
-| React E-Commerce App    | Classification of Pap Smear Images |
-| React Tic-Tac-Toe Game  | Description: An intelligent system for automatic classification using CNN/RNN. |
-| React Place Picker App  | Platform: Python.         |
-| JavaScript Music Player | Date: Aug 2022 – May 2023. |
-| React Shopping Cart App | Supervisor: Sumanta Kulia, Assistant Professor, Haldia Institute of Technology. |
-| React Investment Calculator |                           |
-| React Count-Down App    |                           |
-| React Project Management App |                         |
-| React Country App       |                           |
-| Product Filtering       |                           |
-| Django E-Commerce App   |                           |
-| Text Utils App          |                           |
-| Django Blog App         |                           |
-| Task Manager            |                           |
-| React Todo App          |                           |
-| Product CRUD Operation  |                           |
-| Authenticate Task Manager |                         |
-| Responsive Resume       |                           |
-| Rapid Api Weather App   |                           |
-| World Clock             |                           |
-| JavaScript Search Bar   |                           |
-| JavaScript Guessing Game|                           |
+
+### Personal Projects
+| My Projects           |                       |                         |                         |
+|-----------------------|-----------------------|-------------------------|-------------------------|
+| React E-Commerce App  | React Tic-Tac-Toe Game | React Place Picker App | JavaScript Music Player |
+| React Shopping Cart App | React Investment Calculator | React Count-Down App | React Project Management App |
+| React Country App     | Product Filtering      | Django E-Commerce App   | Text Utils App          |
+| Django Blog App       | Task Manager           | React Todo App          | Product CRUD Operation  |
+| Authenticate Task Manager | Responsive Resume   | Rapid Api Weather App  | World Clock             |
+| JavaScript Search Bar | JavaScript Guessing Game |                           |                         |
+
+### Academic Project
+- **Classification of Pap Smear Images**  
+  - **Brief Description:** The study proposes an intelligent system for automatic classification using CNN / RNN.
+  - **Type of Project:** CNN / RNN classification
+  - **Platform:** Python
+  - **Date:** 30 August 2022 – 30 May 2023
+  - **Supervisor:** Sumanta Kulia, Assistant Professor, Department of CSE, Haldia Institute of Technology, Haldia, West Bengal, India
 
 ## 🌍 Language & Extracurricular Activities
 ### Language
