@@ -1,4 +1,4 @@
-<img src="./-5970742198234360749_120.jpg" alt="ToxiCoder" style="width: 100%;">
+<img src="./istockphoto-1370233320-1024x1024.jpg" alt="ToxiCoder" style="width: 100%;">
 
 # 👩‍💻 Hey, It's ToxiCoder!
 
