@@ -27,24 +27,8 @@ I'm MD Mahfuzul Haque Bhuiyan Twoha, a passionate software developer dedicated t
 
 ## 🎓 Education
 - **B. Tech in Computer Science & Engineering**
-  - Haldia Institute of Technology, West Bengal, India
+  - Maulana Abul Kalam Azad University of Technology, West Bengal, India
   - Year of Passing: 2023
-
-## 💻 Skills
-| Programming Languages | Web Development | Databases | Other |
-|-----------------------|-----------------|-----------|-------|
-| C                     | HTML            | MongoDB   | Git & GitHub            |
-| Java                  | CSS             | MySQL     | Object-Oriented Programming |
-| Python                | SASS            | PostgreSQL| Data Structures & Algorithms |
-| JavaScript (JSON)     | jQuery          |           | Web Accessibility |
-| TypeScript            | React.js        |           | Web Authentication |
-|                       | Redux           |           | Web Authorization |
-|                       | Node.js         |           |                    |
-|                       | Express.js      |           |                    |
-|                       | E.js            |           |                    |
-|                       | Bootstrap       |           |                    |
-|                       | Django          |           |                    |
-|                       | REST APIs       |           |                    |
 
 ## 🛠️ Experience
 - **Software Developer** at EKATTOR iT. (November 2023 - Present)
@@ -56,20 +40,9 @@ I'm MD Mahfuzul Haque Bhuiyan Twoha, a passionate software developer dedicated t
 - Completed a 6-week training program on Python, Data Structures, Algorithms, and Database Management Systems from MYWBUT.
 - Completed a 1-month training program on Web Development from Skill Vertex.
 
-## 🚀 Projects & Research Experience
-
-### Personal Projects
-| My Projects           |                       |                         |                         |
-|-----------------------|-----------------------|-------------------------|-------------------------|
-| React E-Commerce App  | React Tic-Tac-Toe Game | React Place Picker App | JavaScript Music Player |
-| React Shopping Cart App | React Investment Calculator | React Count-Down App | React Project Management App |
-| React Country App     | Product Filtering      | Django E-Commerce App   | Text Utils App          |
-| Django Blog App       | Task Manager           | React Todo App          | Product CRUD Operation  |
-| Authenticate Task Manager | Responsive Resume   | Rapid Api Weather App  | World Clock             |
-| JavaScript Search Bar | JavaScript Guessing Game |                           |                         |
-
+## 🚀 Research Experience
 ### Academic Project
-- **Classification of Pap Smear Images**  
+- **Classification of Pap Smear Images**
   - **Brief Description:** The study proposes an intelligent system for automatic classification using CNN / RNN.
   - **Type of Project:** CNN / RNN classification
   - **Platform:** Python
