@@ -13,7 +13,7 @@ I'm MD Mahfuzul Haque Bhuiyan Twoha, a passionate software developer dedicated t
 - 🌟 Proficient in object-oriented programming, database management systems, and data structures and algorithms in computer science and engineering.
 - 💼 Utilize React for front-end programming and Django, Node, and Express for back-end development.
 - 💻 Extensive experience with React, HTML, CSS, JavaScript, jQuery, and Redux.
-- ♿️ Expertise in Web accessibility and authority on REST APIs, Web authentication, Git, and GitHub.
+- 🌟 Expertise in Web accessibility and authority on REST APIs, Web authentication, Git, and GitHub.
 - 📊 Offer SQL, PostgreSQL and MongoDB as database management systems.
 - 💻 Capable of creating and developing any type of website according to the latest technological requirements.
 - 🌟 Crafting transformative E-commerce Websites that redefine online shopping experiences.
