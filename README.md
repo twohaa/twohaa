@@ -31,7 +31,8 @@ I'm MD Mahfuzul Haque Bhuiyan Twoha, a passionate software developer dedicated t
   - Year of Passing: 2023
 
 ## 🛠️ Experience
-- **Software Developer** at EKATTOR iT. (November 2023 - Present)
+- **Senior Web Developer** at EKATTOR iT. (July 2024 - Present)
+- **Software Developer** at EKATTOR iT. (November 2023 - June 2024)
 
 ## 🎓 Internships
 - Completed a 3-month internship program on Web Development (React, Django, SQL) from EKATTOR iT. (August 2023 – October 2023)
