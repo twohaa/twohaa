@@ -1,61 +1,181 @@
-<img src="./coding.jpg" alt="ToxiCoder" style="width: 100%;">
+<img src="./coding.jpg" alt="ToxiCoder Banner" style="width:100%;"/>
 
-# 👩‍💻 Hey, It's ToxiCoder!
+# 👨‍💻 MD MAHFUZUL HAQUE BHUIYAN TWOHA  
+### Full Stack Software Engineer | AI Integration & Backend Systems Developer  
 
-## 🚀 About Me
-I'm MD Mahfuzul Haque Bhuiyan Twoha, a passionate software developer dedicated to Ethical and Inclusive Development. My expertise spans both front-end and back-end development, with a focus on crafting innovative solutions.
+📍 Dhaka, Bangladesh  
+📧 Email: mahfuzztwohaa@gmail.com  
+📞 Phone: +8801724420544  
+🔗 LinkedIn: linkedin.com/in/mahfuzztwohaa  
+🌐 Portfolio: mahfuzztwohaa.netlify.app  
+💻 GitHub: github.com/twohaa  
 
-## 💡 What I Do
-- 💻 Exploring cutting-edge Cybersecurity Innovations to ensure robust testing and validation.
-- 📚 Sharing insights on Programming Languages through engaging Talks and Workshops.
-- 🚀 Enthusiastic full-stack software developer and programmer in Javascript and Python.
-- 💻 Apply skills to full-stack development following modern software development standards and innovations.
-- 🌟 Proficient in object-oriented programming, database management systems, and data structures and algorithms in computer science and engineering.
-- 💼 Utilize React for front-end programming and Django, Node, and Express for back-end development.
-- 💻 Extensive experience with React, HTML, CSS, JavaScript, jQuery, and Redux.
-- 🌟 Expertise in Web accessibility and authority on REST APIs, Web authentication, Git, and GitHub.
-- 📊 Offer SQL, PostgreSQL and MongoDB as database management systems.
-- 💻 Capable of creating and developing any type of website according to the latest technological requirements.
-- 🌟 Crafting transformative E-commerce Websites that redefine online shopping experiences.
-- 💪 Always proud of my technical abilities.
+---
 
-## 📞 Contact Me
-- **Email:** mahfuzztwohaa@gmail.com
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mahfuzztwohaa/)
-- **Portfolio:** [Explore my work](https://mahfuzztwohaa.netlify.app)
-- **Phone:** +880 1724-420544, +91 9564085663
+## 🚀 ABOUT ME
 
-## 🎓 Education
-- **B. Tech in Computer Science & Engineering**
-  - Maulana Abul Kalam Azad University of Technology, West Bengal, India
-  - Year of Passing: 2023
+I am a Full Stack Software Engineer focused on building **production-grade web applications, scalable backend systems, and AI-powered automation workflows**.
 
-## 🛠️ Experience
-- **Senior Web Developer** at EKATTOR iT. (July 2024 - Present)
-- **Software Developer** at EKATTOR iT. (November 2023 - June 2024)
+I specialize in designing and developing systems using:
 
-## 🎓 Internships
-- Completed a 3-month internship program on Web Development (React, Django, SQL) from EKATTOR iT. (August 2023 – October 2023)
+- Django, Django REST Framework  
+- React.js  
+- Node.js & Express.js  
+- PostgreSQL & MongoDB  
+- AI integrations (Gemini API, OCR, LLM workflows)
 
-## 📚 Trainings
-- Completed a 6-week training program on Python, Data Structures, Algorithms, and Database Management Systems from MYWBUT.
-- Completed a 1-month training program on Web Development from Skill Vertex.
+I focus on building **real-world, scalable, and production-ready systems**, not just UI projects or clones.
 
-## 🚀 Research Experience
-### Academic Project
-- **Classification of Pap Smear Images**
-  - **Brief Description:** The study proposes an intelligent system for automatic classification using CNN / RNN.
-  - **Type of Project:** CNN / RNN classification
-  - **Platform:** Python
-  - **Date:** 30 August 2022 – 30 May 2023
-  - **Supervisor:** Sumanta Kulia, Assistant Professor, Department of CSE, Haldia Institute of Technology, Haldia, West Bengal, India
+---
 
-## 🌍 Language & Extracurricular Activities
-### Language
-- English: Fluent
-- Bengali: Native
-- Hindi: Conversational
+## 🧠 CORE EXPERTISE
 
-### Extracurricular Activities
-- Forward at Department Football Team.
-- Intra-college Badminton Champion.
+### 🏗️ Backend & System Design
+- REST API Development
+- Authentication & Authorization Systems
+- Role-Based Access Control (RBAC)
+- Database Architecture & Optimization
+- Scalable Backend Systems
+
+### 🤖 AI & Automation Engineering
+- Gemini API Integration
+- OCR-Based Document Processing
+- Structured JSON Extraction
+- Prompt Engineering
+- LLM Workflow Pipelines
+- AI Response Validation Systems
+
+### 🎨 Frontend Development
+- React.js / React Native
+- Redux State Management
+- HTML, CSS (SASS), Bootstrap
+
+### 🗄️ Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- SQLite
+
+### ⚙️ Tools & Platforms
+- Git & GitHub
+- Postman
+- Linux
+- Netlify
+- Vercel
+
+---
+
+## 💼 PROFESSIONAL EXPERIENCE
+
+### 🧠 Senior Web Developer — EKATTOR IT  
+**July 2024 – Present | Dhaka, Bangladesh**
+
+- Designed and developed enterprise-grade systems including business, school, and workflow automation platforms  
+- Built RESTful APIs with authentication, authorization, and role-based access control  
+- Developed AI-powered OCR and document processing pipelines using Gemini API  
+- Implemented structured JSON validation systems for AI-generated outputs  
+- Optimized backend architecture and database performance for production scalability  
+- Worked across full software lifecycle: design → development → deployment  
+
+---
+
+### 💻 Software Developer — EKATTOR IT  
+**Nov 2023 – Jun 2024**
+
+- Built full-stack applications using Django REST Framework and React.js  
+- Developed authentication systems, dashboards, and CRUD modules  
+- Integrated backend APIs with frontend systems  
+- Contributed to deployment, debugging, and maintenance  
+
+---
+
+### 🧑‍💻 Freelance Full Stack Developer  
+**2021 – Present | Remote**
+
+- Delivered custom web applications for clients (business systems, dashboards, automation tools)  
+- Built a Question Management System with structured workflows  
+- Designed system architecture based on client requirements  
+- Developed and deployed production-ready applications  
+- Worked with Django, React, Node.js, MongoDB, and REST APIs  
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+### 🤖 AI Question Management & OCR System (Flagship Project)
+- Built AI-powered system for extracting structured questions from images and PDFs  
+- Developed OCR pipeline for MCQ, SAQ, and CQ processing  
+- Integrated Gemini API for intelligent text extraction  
+- Designed structured JSON validation and correction system  
+- Built backend system for storing and retrieving processed data  
+**Tech Stack:** Django, DRF, React, PostgreSQL, Gemini API, OCR  
+
+---
+
+### 🏢 Business & Office Management System
+- Enterprise workflow automation system for employee and attendance management  
+- Role-based authentication and permission system  
+- REST API backend with optimized database design  
+- Reporting dashboard for business operations  
+**Tech Stack:** Django, React, PostgreSQL  
+
+---
+
+### 🎓 School Management System
+- Multi-role platform for students, teachers, and administrators  
+- Modules: attendance, exams, results, academic records  
+- Secure authentication and role-based dashboards  
+- REST APIs for frontend-backend integration  
+**Tech Stack:** Django, React, PostgreSQL  
+
+---
+
+### 🍽️ Restaurant POS System
+- Billing, inventory, and sales tracking system  
+- Real-time transaction handling and reporting  
+- Backend API optimized for fast operations  
+**Tech Stack:** Django, React, PostgreSQL  
+
+---
+
+## 🎓 EDUCATION
+
+**B.Tech in Computer Science & Engineering**  
+Haldia Institute of Technology, India  
+CGPA: 8.63 / 10  
+(2019 – 2023)
+
+---
+
+## 🌍 LANGUAGES
+
+- English — Fluent  
+- Bengali — Native  
+- Hindi — Conversational  
+
+---
+
+## 🏆 EXTRACURRICULAR
+
+- Football (Department Team Forward)  
+- Intra-college Badminton Champion  
+
+---
+
+## 📌 CAREER POSITIONING
+
+✔ Full Stack Engineer (Django + React)  
+✔ AI Integration Developer (Gemini API, OCR, LLM workflows)  
+✔ Backend Systems Architect  
+
+---
+
+## 📫 CONTACT
+
+If you're interested in collaboration, freelance work, or opportunities:
+
+📧 Email: mahfuzztwohaa@gmail.com  
+🔗 LinkedIn: linkedin.com/in/mahfuzztwohaa  
+🌐 Portfolio: mahfuzztwohaa.netlify.app  
+
+---
