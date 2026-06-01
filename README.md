@@ -89,7 +89,7 @@ I focus on building **real-world, scalable, and production-ready systems**, not 
 
 ---
 
-### 🧑‍💻 Freelance Full Stack Developer  
+### 🧑‍💻 Full Stack Engineer — Freelance
 **2021 – Present | Remote**
 
 - Delivered custom web applications for clients (business systems, dashboards, automation tools)  
