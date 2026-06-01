@@ -80,7 +80,7 @@ I focus on building **real-world, scalable, and production-ready systems**, not 
 ---
 
 ### 💻 Software Developer — EKATTOR IT  
-**Nov 2023 – Jun 2024**
+**Nov 2023 – Jun 2024 | Dhaka, Bangladesh**
 
 - Built full-stack applications using Django REST Framework and React.js  
 - Developed authentication systems, dashboards, and CRUD modules  
