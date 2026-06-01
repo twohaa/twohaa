@@ -67,7 +67,7 @@ I focus on building **real-world, scalable, and production-ready systems**, not 
 
 ## 💼 PROFESSIONAL EXPERIENCE
 
-### 🧠 Senior Web Developer — EKATTOR IT  
+### 🧠 Senior Web Application Developer — EKATTOR IT  
 **July 2024 – Present | Dhaka, Bangladesh**
 
 - Designed and developed enterprise-grade systems including business, school, and workflow automation platforms  
